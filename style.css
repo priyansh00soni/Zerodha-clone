@@ -1,0 +1,215 @@
+*{
+    font-family:poppins;
+    font-size:14.5px;
+    margin: 0px;
+    padding: 0px;
+    }
+#navbar{
+    
+    height: 55px;
+    width: 100%;
+    display: flex;
+   align-items: center;
+      position: fixed;
+      top: 0px;
+    box-shadow: #666666 0px 0.1px;
+    background-color: white;
+}
+
+#logo{
+    background-image:url(https://zerodha.com/static/images/logo.svg);
+    height: 17px;
+    width: 130px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right: 460px;
+    margin-left: 250px;
+    margin-top: 0px;
+}
+#buttons{
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+}
+#signup{
+    height: 65px;
+    width: 87px;
+    color: #666666;
+    padding-top: 20px;
+}
+#signup:hover{color: #387ed1; 
+cursor: pointer;}
+#about:hover{color: #387ed1; cursor: pointer}
+#products:hover{color: #387ed1; cursor: pointer}
+#support:hover{color: #387ed1; cursor: pointer}
+#pricing:hover{color: #387ed1; cursor: pointer}
+#about{
+    
+        height: 65px;
+        width: 87px;
+        color: #666666; 
+        padding-top: 20px;
+}
+#products{
+    height: 65px;
+    width: 87px;
+    color: #666666;
+    padding-top: 20px;
+}
+#support{
+    height: 65px;
+    width: 87px;
+    color: #666666;
+    padding-top: 20px;
+}
+#pricing{
+    height: 65px;
+    width: 87px;
+    color: #666666;
+    padding-top: 20px;
+}
+#menu{
+    
+    color: #666666;
+    width: 70px;
+    height: 43px;
+    margin-top: 5px;
+   
+}
+#men{
+    font-size: 20px;
+}
+#image{
+    height: 330px;
+    width: 786px;
+    background-image: url(https://zerodha.com/static/images/landing.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 60px;
+}
+#hero{
+    display:flex;
+    flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     margin-top: 17px;
+    }
+    #invest{
+       color: #424242;
+       font-size: 42px;
+       font-weight: 500;
+       margin-top: 0px;
+       margin-bottom: 50px;
+    }
+    #online{
+        color: #424242;
+       font-size: 20px;
+       margin-top: -32px;
+    }
+    #sign{
+        color: white;
+       font-size: 20px;
+       background-color: #387ed1;
+       height: 44PX;
+       width: 174PX;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       border-radius: 2px;
+       margin-top: 22px;
+    }
+    #sign:hover{
+        background-color: #2a2929;
+        color: white;
+    }
+#part2{
+    background-image: url(https://zerodha.com/static/images/largest-broker.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 276px;
+    width: 432.663px;
+    margin-right: 150px;
+}
+#part{
+    display:flex;
+    justify-content:center;
+    margin-top: 100px;
+    
+}
+#headingg{
+    font-weight: 500;
+    font-size: 35px;
+    color:#424242;
+}
+#para{
+    margin-top: -10px;
+    font-size: 16px;
+    color: #424242;
+}
+#listt{
+    display:flex;
+    margin-top: -50px;
+    margin-left: -27px;
+  color: #424242;
+    font-size: 16px;
+}
+li{
+    margin: 6px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#img{
+    background-image: url(https://zerodha.com/static/images/press-logos.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 30px;
+    width: 528px;
+}
+#img2{
+    background-image: url(https://zerodha.com/static/images/ecosystem.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 590px;
+    margin-top: 0px;
+}
+#part3{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+#texxt{
+    color: #666666;
+    font-size: 16px;
+    font-weight: 350;
+    margin-top: -50px;
+    font-family: poppins;
+}
+#trust{
+    font-size:32px ;
+    color: #424242;
+    font-weight: 500;
+}
+
+.bolde{
+    font-size: 20px;
+    color: #424242;
+    font-weight: 500;
+}
+#imgand{
+    
+}
+#explore{
+    margin-left: 50px;
+}
+.blue{
+    color: #387ed1;
+}
+.blue:hover{
+    color: #424242;
+    cursor: pointer;
+}
+
+
+/* Spark */
