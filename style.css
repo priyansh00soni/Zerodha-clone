@@ -148,10 +148,13 @@ cursor: pointer;}
 }
 #listt{
     display:flex;
-    margin-top: -50px;
-    margin-left: -27px;
+    margin-top: -20px;
+    
   color: #424242;
     font-size: 16px;
+}
+#l2{
+    margin-left: 20px;
 }
 li{
     margin: 6px;
@@ -164,6 +167,9 @@ li{
     background-repeat: no-repeat;
     height: 30px;
     width: 528px;
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-left: -12px;
 }
 #img2{
     background-image: url(https://zerodha.com/static/images/ecosystem.png);
@@ -190,6 +196,7 @@ li{
     font-size:32px ;
     color: #424242;
     font-weight: 500;
+    margin-bottom: 70px;
 }
 
 .bolde{
